@@ -1,2 +1,2 @@
 # To-do-List-App
-This a To-do list website.
+This a To-do list webs-application.
